@@ -1,0 +1,3 @@
+All releases including source are in the releases tab - ChucklesOS is an open source shell operating system build purely for experimental purpouses (for now...).
+To add things, you need to make a new asm file, add your code, and youll need to modify shell.asm to jump to whatever sector your code will be in, as well as the command
+you type to activate it. YOU MUST CREDIT ME WHEN FORKING
